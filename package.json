@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "express": "^4.0.0",
-    "mocha" : "1.21.x"
+    "mocha" : "1.21.x",
+    "npm" : "x"
   },
   "engines": {
     "node": "0.10.x"
